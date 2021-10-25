@@ -1,5 +1,5 @@
 *.pyc
 __pycache__
-.env
 docker/db/data
-docker/redis/data
+.env
+.idea
